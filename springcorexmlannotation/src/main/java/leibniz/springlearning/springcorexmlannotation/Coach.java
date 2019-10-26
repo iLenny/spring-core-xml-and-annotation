@@ -1,0 +1,6 @@
+package leibniz.springlearning.springcorexmlannotation;
+
+public interface Coach {
+	public String getDailyWorkout();
+	public String getDailyFortune();
+}
